@@ -57,6 +57,9 @@ Build/*
 Build/*/**
 !Build/*/PakBlacklist*.txt
 
+# Packs
+Content/ResearchMegaPack/*
+
 # Don't ignore icon files in Build
 !Build/**/*.ico
 
