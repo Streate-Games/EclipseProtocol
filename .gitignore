@@ -60,6 +60,7 @@ Build/*/**
 # Packs
 Content/ResearchMegaPack/*
 Content/Workspace/Audio/*
+Content/sA_Megapack_v1/*
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
