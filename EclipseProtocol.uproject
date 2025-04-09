@@ -27,7 +27,7 @@
 		},
 		{
 			"Name": "PhysicalLayout",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/349bf2d4b1a945fa8f31db80fabf8058"
 		},
 		{
@@ -49,6 +49,10 @@
 		{
 			"Name": "AssetPlacementEdMode",
 			"Enabled": true
+		},
+		{
+			"Name": "CLionSourceCodeAccess",
+			"Enabled": false
 		}
 	]
 }
