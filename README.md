@@ -3,13 +3,14 @@ After running out of power, you wake up in a cryopod in a laboratory in Berlin h
 you decide to explore the main laboratory of an ancient corporation, "Berlin Proxima".
 Discover secrets, learn how to use the tech of your ancestors and uncover the tragedy that almost wiped out humanity. Maybe one day, you will be able to rebuild mankind.
 
-## Executable Link
+
+
+# Executable Link
 
 
 Download
 
 
-## Development Version
 # Game developed by Golescu Stefan, Grosu Mircea, Boncan Stefan.
 
 ### Engine used: Unreal Engine 5
