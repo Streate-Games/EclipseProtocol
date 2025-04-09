@@ -8,7 +8,7 @@ Discover secrets, learn how to use the tech of your ancestors and uncover the tr
 ## Official Version
 link
 ## Development Version
-[Dev Version with commands + reduced motion](https://drive.google.com/file/d/1PLpWwEayhp-M_HlHlM-OY8P6PCg9s2DY/view?usp=sharing)
+[Download development version with commands + reduced motion](https://drive.google.com/file/d/1PLpWwEayhp-M_HlHlM-OY8P6PCg9s2DY/view?usp=sharing)
 
 "[" - Unlock all chests and puzzle rewards.
 
