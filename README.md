@@ -6,21 +6,35 @@ Discover secrets, learn how to use the tech of your ancestors and uncover the tr
 Game developed by Golescu Stefan, Grosu Mircea, Boncan Stefan.
 
 Engine used: Unreal Engine 5
+
 Music from: Sausboi (https://www.youtube.com/@sausboi9677)
+
 Some prop models are taken from Unreal Marketplace with owned licenses.
+
+
 
 Minimum Specs:
 
 OS: Windows 10
+
 CPU: AMD Ryzen 5 3600 / Intel i3-10100F
+
 GPU: GTX 1660 / AMD RX 580 Sapphire
+
 RAM: 8 GB DDR4
+
 Storage: 5 GB Available
+
+
 
 Recommended Specs:
 
 OS: Windows 10 / Windows 11
+
 CPU: AMD Ryzen 5 5600 / Intel i5-12400F
+
 GPU: RTX 2070 or newer / AMD RX 6600 or newer
+
 RAM: 8 GB DDR4
+
 Storage: 5 GB Available
