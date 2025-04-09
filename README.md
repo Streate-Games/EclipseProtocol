@@ -8,7 +8,7 @@ Discover secrets, learn how to use the tech of your ancestors and uncover the tr
 # Executable Link
 
 
-Download
+[Download](https://drive.google.com/file/d/1sAB2PCZRUqkuz4mupspCZ0V3iwNTV4Ns/view?usp=sharing)
 
 
 # Game developed by Golescu Stefan, Grosu Mircea, Boncan Stefan.
@@ -29,7 +29,7 @@ GPU: GTX 1660 / AMD RX 580 Sapphire
 
 RAM: 8 GB DDR4
 
-Storage: 5 GB Available
+Storage: 4 GB Available
 
 
 
@@ -43,4 +43,4 @@ GPU: RTX 2070 or newer / AMD RX 6600 or newer
 
 RAM: 8 GB DDR4
 
-Storage: 5 GB Available
+Storage: 4 GB Available
