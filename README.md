@@ -1,19 +1,17 @@
-Eclipse Protocol - Game made for FiiCode 2025
-After running out of power, you wake up in a cryopod in a laboratory in Berlin hundreds of years later. Confused by the loneliness and silence of the world,
-you decide to explore the main laboratory of an ancient corporation, "Berlin Proxima".
-Discover secrets, learn how to use the tech of your ancestors and uncover the tragedy that almost wiped out humanity. Maybe one day, you will be able to rebuild mankind.
+# Eclipse Protocol - Game made for FiiCode 2025
+### After running out of power, you wake up in a cryopod in a laboratory in Berlin hundreds of years later. Confused by the loneliness and silence of the world,
+### you decide to explore the main laboratory of an ancient corporation, "Berlin Proxima".
+### Discover secrets, learn how to use the tech of your ancestors and uncover the tragedy that almost wiped out humanity. Maybe one day, you will be able to rebuild mankind.
 
-Game developed by Golescu Stefan, Grosu Mircea, Boncan Stefan.
+## Game developed by Golescu Stefan, Grosu Mircea, Boncan Stefan.
 
-Engine used: Unreal Engine 5
-
-Music from: Sausboi (https://www.youtube.com/@sausboi9677)
-
-Some prop models are taken from Unreal Marketplace with owned licenses.
+### Engine used: Unreal Engine 5
+### Music from: Sausboi (https://www.youtube.com/@sausboi9677)
+### Some prop models are taken from Unreal Marketplace with owned licenses.
 
 
 
-Minimum Specs:
+# Minimum Specs:
 
 OS: Windows 10
 
@@ -27,7 +25,7 @@ Storage: 5 GB Available
 
 
 
-Recommended Specs:
+# Recommended Specs:
 
 OS: Windows 10 / Windows 11
 
