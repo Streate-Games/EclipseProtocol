@@ -5,7 +5,7 @@ Discover secrets, learn how to use the tech of your ancestors and uncover the tr
 
 
 
-# Executable Link
+# Important
 
 
 [Download](https://drive.google.com/file/d/1sAB2PCZRUqkuz4mupspCZ0V3iwNTV4Ns/view?usp=sharing)
