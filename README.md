@@ -8,7 +8,7 @@ Discover secrets, learn how to use the tech of your ancestors and uncover the tr
 # Important
 
 
-[Download](https://drive.google.com/file/d/1sAB2PCZRUqkuz4mupspCZ0V3iwNTV4Ns/view?usp=sharing)
+[Download](https://drive.google.com/drive/folders/1qjhTsrQtSRHTAAzl_lj0SkfB77wmWheP?usp=sharing) - latest build 12/04/2025
 
 [Prezentare Video](https://www.youtube.com/watch?v=vStx280WGR4)
 
