@@ -12,6 +12,8 @@ Discover secrets, learn how to use the tech of your ancestors and uncover the tr
 
 [Download + Prezentare Video](https://drive.google.com/drive/folders/1qjhTsrQtSRHTAAzl_lj0SkfB77wmWheP?usp=sharing) - latest build 18/05/2025 - 00:23 - FINALA
 
+[Link Youtube Prezentare Finala (Unlisted)](https://www.youtube.com/watch?v=iekzzEOcmrU)
+
 # Game developed by Golescu Stefan, Grosu Mircea, Boncan Stefan.
 
 ### Engine used: Unreal Engine 5
