@@ -3,14 +3,14 @@ After running out of power, you wake up in a cryopod in a laboratory in Berlin h
 you decide to explore the main laboratory of an ancient corporation, "Berlin Proxima".
 Discover secrets, learn how to use the tech of your ancestors and uncover the tragedy that almost wiped out humanity. Maybe one day, you will be able to rebuild mankind.
 
+# NOW WITH YOUR OWN CUTE COMPANION!
+
 
 
 # Important
 
 
-[Download](https://drive.google.com/drive/folders/1qjhTsrQtSRHTAAzl_lj0SkfB77wmWheP?usp=sharing) - latest build 12/04/2025
-
-[Prezentare Video](https://www.youtube.com/watch?v=vStx280WGR4)
+[Download + Prezentare Video](https://drive.google.com/drive/folders/1qjhTsrQtSRHTAAzl_lj0SkfB77wmWheP?usp=sharing) - latest build 18/05/2025 - 00:23 - FINALA
 
 # Game developed by Golescu Stefan, Grosu Mircea, Boncan Stefan.
 
